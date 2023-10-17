@@ -1,2 +1,2 @@
 # SmartContracts
-Solidity files for different kinds of smart contracts
+Solidity files for some elementary smart contracts to display my understanding of solidity.
